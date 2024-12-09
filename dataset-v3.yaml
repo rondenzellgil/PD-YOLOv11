@@ -1,0 +1,6 @@
+train: train
+val: valid
+
+nc: 2
+
+names: ['Ampoules', 'Vials']
