@@ -1,0 +1,13 @@
+train: C:\Users\ronde\Desktop\PD\yolov11-v7\yolov11-v7\train
+val: C:\Users\ronde\Desktop\PD\yolov11-v7\yolov11-v7\valid
+test: C:\Users\ronde\Desktop\PD\yolov11-v7\yolov11-v7\test
+
+nc: 3
+names: ['Ampoules', 'Other Objects', 'Vials']
+
+roboflow:
+  workspace: pd-team-51
+  project: pd-yolov11-v4
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pd-team-51/pd-yolov11-v4/dataset/3
